@@ -1,5 +1,5 @@
 allprojects {
-    group = 'com.github.mariotaku.ObjectCursor'
+    group = 'com.github.tlaster.ObjectCursor'
     version = '0.9.22'
 }
 
